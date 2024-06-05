@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#003285;
+}
+P{
+  font-size:80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color:white;
+}
+.contenedor{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contenedor img{
+  margin: 30px;
+  max-height: 150px;
+  min-height: 75px;
+}
+.pastel{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pastel img{
+  margin: 30px;
+  max-height: 400px;
+  min-height: 200px;
+}
